@@ -1,1 +1,1 @@
-# prompt-egg
+# Personal Prompt Engineering Project
